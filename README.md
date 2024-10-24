@@ -9,6 +9,8 @@ Demo link - https://drive.google.com/file/d/1IPgC5dQg3udpny2-tzFE-nCWOcVau0y9/vi
 
 How to run this project
 1 Create all three tables in the database.
+
 2 Connect the project to the database and Deploy it to Tomcat.
+
 3 Open your browser and go to http://localhost:8080/UserAccessManagementSystem/login.jsp to access the login page.
 
